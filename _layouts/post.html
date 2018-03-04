@@ -1,0 +1,19 @@
+{% include header.html %}
+
+<header>
+  <h2><a href="/">Matthew Gifford</a></h2>
+</header>
+
+{{ content | strip }}
+
+<h3>{{ page.date | date: '%B %d, %Y' }}</h3>
+
+{% if page.previous.url %}
+  <p>Previous post: <a href="{{ page.previous.url }}">{{page.previous.title}}</a></p>
+{% endif %}
+
+{% if page.next.url %}
+  <p>Next post: <a href="{{ page.next.url }}">{{page.next.title}}</a></p>
+{% endif %}
+
+{% include footer.html %}

@@ -1,0 +1,6 @@
+.*.sw*
+.*.un~
+_scripts
+_site
+.sass-cache
+.jekyll-metadata
