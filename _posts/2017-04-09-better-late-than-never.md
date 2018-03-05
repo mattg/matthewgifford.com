@@ -51,5 +51,7 @@ I’m almost embarrassed by how bummed out I am that <a href="https://www.nytime
 <hr />
 
 <figure>
-  <iframe src="https://www.youtube.com/embed/MlQunle406U?rel=0" scrolling="no" width="700" height="393" frameborder="0"></iframe>
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/MlQunle406U?rel=0" scrolling="no" width="700" height="393" frameborder="0"></iframe>
+  </div>
 </figure>

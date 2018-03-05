@@ -18,6 +18,8 @@ But all the planning and logistics that goes into this stuff wears me out. And, 
 
 Looking forward to life slowing down a little so I can sit and think.
 
-<figure>
-  <iframe src="https://www.youtube.com/embed/LS-ErOKpO4E?rel=0" scrolling="no" width="700" height="393" frameborder="0"></iframe>
+<figure class="wide">
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/LS-ErOKpO4E?rel=0" scrolling="no" width="700" height="393" frameborder="0"></iframe>
+  </div>
 </figure>

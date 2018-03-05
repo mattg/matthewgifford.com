@@ -42,11 +42,11 @@ Time to start saving up.
 
 <hr>
 
-In my <a href="https://notes.matthewgifford.com/weekend-notes-2-20-17-7afccee2a432#.2cxprzedx">last update</a>, I linked to a story about how awful West Elm’s Peggy sofa is. West Elm is now <a href="https://theawl.com/how-to-get-a-free-couch-4c5c47c9ff57#.bkxvz68g9">offering refunds</a> to owners of defective Peggys.
+In my <a href="/2017/02/20/tabasco/">last update</a>, I linked to a story about how awful West Elm’s Peggy sofa is. West Elm is now <a href="https://theawl.com/how-to-get-a-free-couch-4c5c47c9ff57#.bkxvz68g9">offering refunds</a> to owners of defective Peggys.
 
 <hr>
 
-In January, I <a href="https://notes.matthewgifford.com/friday-notes-1-27-17-9ef97cca8ca5#.lkm0b6ggj">posted</a> an amazing movie of planets orbiting another star. Since then, NASA has announced the discovery of a <a href="https://medium.com/starts-with-a-bang/seven-planets-including-three-habitable-ones-found-around-ultra-cool-dwarf-star-7f0de6ddec5a">system of seven roughly Earth-sized rocky planets</a> orbiting a dwarf star. Three of them are potentially habitable, by our standards. We really need to get the whole near-light-speed-travel thing figured out.
+In January, I <a href="/2017/01/27/attention/">posted</a> an amazing movie of planets orbiting another star. Since then, NASA has announced the discovery of a <a href="https://medium.com/starts-with-a-bang/seven-planets-including-three-habitable-ones-found-around-ultra-cool-dwarf-star-7f0de6ddec5a">system of seven roughly Earth-sized rocky planets</a> orbiting a dwarf star. Three of them are potentially habitable, by our standards. We really need to get the whole near-light-speed-travel thing figured out.
 
 <hr>
 
@@ -64,5 +64,7 @@ The best conversation I listened to this week was <a href="http://www.wtfpod.com
 Finally, what would it sound like if Sufjan Stevens, Cornelius, Mark Mothersbaugh, Deerhoof, and the Beatles made music together? Probably something like this.
 
 <figure>
-  <iframe src="https://www.youtube.com/embed/XYx-a79MhX8?rel=0" scrolling="no" width="700" height="393" frameborder="0"></iframe>
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/XYx-a79MhX8?rel=0" scrolling="no" width="700" height="393" frameborder="0"></iframe>
+  </div>
 </figure>

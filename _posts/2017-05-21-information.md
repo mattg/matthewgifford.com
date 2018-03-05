@@ -25,7 +25,9 @@ This blows my mind. How many of these cities can I name? Beijing, Shanghai, Hong
 Japan is this way for me, too. I know a little more about it than China. But after watching this video, I realized that I knew almost nothing about Japan before World War II.
 
 <figure>
-  <iframe src="https://www.youtube.com/embed/Mh5LY4Mz15o?rel=0" scrolling="no" frameborder="0" width="700" height="393"></iframe>
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/Mh5LY4Mz15o?rel=0" scrolling="no" frameborder="0" width="700" height="393"></iframe>
+  </div>
 </figure>
 
 And these are two of the most well-known Asian countries. How much do you know about Bhutan? Did you even know that it existed?
@@ -47,5 +49,7 @@ Once you’re done with that, we can put it to work right away: The *Fearless Gi
 <hr />
 
 <figure>
-  <iframe src="https://www.youtube.com/embed/zWKIWNJnlzI?rel=0" scrolling="no" frameborder="0" width="700" height="393"></iframe>
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/zWKIWNJnlzI?rel=0" scrolling="no" frameborder="0" width="700" height="393"></iframe>
+  </div>
 </figure>

@@ -14,7 +14,7 @@ summary: "Topics include: the north pole of Saturn, feathered dinosaurs encased 
 
 ## The north pole of Saturn
 
-<a href="https://notes.matthewgifford.com/friday-notes-12-2-16-33fa5a64536c#.y5jl397d9">Last week</a>, I mentioned that Titan is the next logical place in the solar system for humans to colonize. <a href="https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens">Cassini–Huygens</a>, the probe that has been studying Titan, among other things in the Saturn system, just moved into a ring-grazing orbit. This orbit sends it high over the northern hemisphere of Saturn. The <a href="https://www.nasa.gov/feature/jpl/cassini-beams-back-first-images-from-new-orbit">first images</a> sent back from that vantage point are amazing.
+<a href="/2016/12/02/ramen/">Last week</a>, I mentioned that Titan is the next logical place in the solar system for humans to colonize. <a href="https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens">Cassini–Huygens</a>, the probe that has been studying Titan, among other things in the Saturn system, just moved into a ring-grazing orbit. This orbit sends it high over the northern hemisphere of Saturn. The <a href="https://www.nasa.gov/feature/jpl/cassini-beams-back-first-images-from-new-orbit">first images</a> sent back from that vantage point are amazing.
 
 <figure>
   <img src="/img/medium/1*srpNqnKQ5_xLSa3D_Uwd-g.jpeg">
@@ -49,5 +49,7 @@ I had no idea, until I saw that the Song Exploder podcast was <a href="http://so
 If you’re not familiar with <em>Endtroducing</em>, I encourage you to check it out. Here’s my favorite song from the album.
 
 <figure>
-  <iframe src="https://www.youtube.com/embed/KFXtwNLR2xE?rel=0" scrolling="no" width="640" height="480" frameborder="0"></iframe>
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/KFXtwNLR2xE?rel=0" scrolling="no" width="640" height="480" frameborder="0"></iframe>
+  </div>
 </figure>

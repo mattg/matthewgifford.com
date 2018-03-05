@@ -6,7 +6,7 @@ summary: "Earlier this year, I wrote about Isaac Asimov’s science fiction clas
 
 # {{ page.title }}
 
-Earlier this year, <a href="https://notes.matthewgifford.com/notes-on-asimov-s-foundation-1da243b99eb4#.fieq70uql">I wrote</a> about Isaac Asimov’s science fiction classic, *Foundation*. More accurately, I wrote about my dislike for his writing style.
+Earlier this year, <a href="/2015/03/29/notes-on-azimovs-foundation/">I wrote</a> about Isaac Asimov’s science fiction classic, *Foundation*. More accurately, I wrote about my dislike for his writing style.
 
 <figure>
   <img src="/img/medium/1*t3pSQVh0WdsaMpkSudLl5Q.jpeg">

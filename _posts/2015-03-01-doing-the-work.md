@@ -42,7 +42,9 @@ A couple years ago, August’s aunt let him borrow a <a href="http://en.wikipedi
 ## Reminder: Oregon is amazing
 
 <figure>
-  <iframe src="https://player.vimeo.com/video/117670644" scrolling="no" width="700" height="394" frameborder="0"></iframe>
+  <div class="video-container"> 
+    <iframe src="https://player.vimeo.com/video/117670644" scrolling="no" width="700" height="394" frameborder="0"></iframe>
+  </div>
 </figure>
 
 ## Coda

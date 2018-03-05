@@ -12,7 +12,7 @@ summary: "Topics include: controlling attention, encrypted messengers, awesome j
 
 # {{ page.title }}
 
-It’s been difficult to process everything that has happened over the past week. It seems like every hour or two, something absurd happens. And while I’m trying to deal with the outrage, the next thing comes along. It’s like I’m watching a slow-motion chain-reaction car accident and <a href="https://notes.matthewgifford.com/twitter-is-a-drug-b33002c21c8#.7rpu7gq4m">can’t look away</a>.
+It’s been difficult to process everything that has happened over the past week. It seems like every hour or two, something absurd happens. And while I’m trying to deal with the outrage, the next thing comes along. It’s like I’m watching a slow-motion chain-reaction car accident and <a href="/2015/01/27/twitter-is-a-drug/">can’t look away</a>.
 
 ## Noise
 

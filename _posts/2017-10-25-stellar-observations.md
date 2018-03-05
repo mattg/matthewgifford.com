@@ -58,6 +58,8 @@ This is a great stellated dodecahedron. It’s pretty much my favorite polyhedro
 
 <hr />
 
-<figure>
-  <iframe width="700" height="393" src="https://www.youtube.com/embed/YG8wLT8SFiw?rel=0" scrolling="no" frameborder="0"></iframe>
+<figure class="wide">
+  <div class="video-container">
+    <iframe width="854" height="480" src="https://www.youtube.com/embed/YG8wLT8SFiw?rel=0" scrolling="no" frameborder="0"></iframe>
+  </div>
 </figure>

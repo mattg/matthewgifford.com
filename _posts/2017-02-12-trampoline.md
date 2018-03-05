@@ -31,5 +31,7 @@ I wish this book had been around twenty years ago when I needed help figuring ou
 I will probably end up writing more about it soon. But I think I need to skim back through it first.
 
 <figure>
-  <iframe src="https://www.youtube.com/embed/BGpmIANN5Lg?rel=0" scrolling="no" width="700" height="393" frameborder="0"></iframe>
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/BGpmIANN5Lg?rel=0" scrolling="no" width="700" height="393" frameborder="0"></iframe>
+  </div>
 </figure>

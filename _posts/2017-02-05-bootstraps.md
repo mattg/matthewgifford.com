@@ -28,7 +28,9 @@ Martin Luther King Jr. said this in a sermon at the National Cathedral in 1968. 
 It’s definitely something to think about, considering the enormous amounts of homelessness, both for refugees and U.S. citizens, we’re seeing today. Sadly, much of this sermon is still relevant.
 
 <figure>
-  <iframe src="https://www.youtube.com/embed/AFbt7cO30jQ?start=849&amp;feature=oembed&amp;start=849" scrolling="no" width="700" height="393" frameborder="0"></iframe>
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/AFbt7cO30jQ?start=849&amp;feature=oembed&amp;start=849" scrolling="no" width="700" height="393" frameborder="0"></iframe>
+  </div>
 </figure>
 
 ## Time crystals
@@ -40,5 +42,7 @@ Time crystals sound like something from a Marvel movie. But they’re not. <a hr
 My 7-year-old son received a GoPro camera for Christmas. He’s starting to learn how to edit and upload his videos. This one is my favorite so far. It would be nice if you checked it out and offered him some encouragement. We have to do something about those titles, though.
 
 <figure>
-  <iframe src="https://www.youtube.com/embed/eSKb8dBQexo?rel=0" scrolling="no" width="1000" height="562" frameborder="0"></iframe>
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/eSKb8dBQexo?rel=0" scrolling="no" width="1000" height="562" frameborder="0"></iframe>
+  </div>
 </figure>
