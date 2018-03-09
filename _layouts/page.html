@@ -4,8 +4,10 @@
   <h2><a href="/">Matthew Gifford</a></h2>
 </header>
 
-<h1>{{ page.title }}</h1>
+<div class="main">
+  <h1>{{ page.title }}</h1>
 
-{{ content | strip }}
+  {{ content | strip }}
+</div>
 
 {% include footer.html %}

@@ -4,16 +4,23 @@
   <h2><a href="/">Matthew Gifford</a></h2>
 </header>
 
-{{ content | strip }}
+<div class="main">
+  {{ content | strip }}
 
-<h3>{{ page.date | date: '%B %d, %Y' }}</h3>
+  <div class="published-date">{{ page.date | date: '%B %e, %Y' }}</div>
 
-{% if page.previous.url %}
-  <p>Previous post: <a href="{{ page.previous.url }}">{{page.previous.title}}</a></p>
-{% endif %}
+  <div class="fleuron">❁</div>
 
-{% if page.next.url %}
-  <p>Next post: <a href="{{ page.next.url }}">{{page.next.title}}</a></p>
-{% endif %}
+  <p>Have something to say? <a href="mailto:hello@matthewgifford.com?subject=Feedback: {{ page.title }}">Email me</a>.</p>
+
+  {% if page.next.url %}
+    <p>Next post: <a href="{{ page.next.url }}">{{page.next.title}}</a></p>
+  {% endif %}
+
+  {% if page.previous.url %}
+    <p>Previous post: <a href="{{ page.previous.url }}">{{page.previous.title}}</a></p>
+  {% endif %}
+
+</div>
 
 {% include footer.html %}
