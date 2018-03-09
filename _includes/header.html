@@ -2,26 +2,28 @@
 <html>
   <head>
     <!--
-            ___           ___     
-           /__/\         /  /\    
-          |  |::\       /  /:/_   
-          |  |:|:\     /  /:/ /\  
-        __|__|:|\:\   /  /:/_/::\ 
-       /__/::::| \:\ /__/:/__\/\:\
-       \  \:\~~\__\/ \  \:\ /~~/:/
-        \  \:\        \  \:\  /:/ 
-         \  \:\        \  \:\/:/  
-          \  \:\        \  \::/   
-           \__\/         \__\/    
+           ___                       ___         ___   
+          /  /\        ___          /  /\       /  /\  
+         /  /:/_      /  /\        /  /:/_     /  /:/_ 
+        /  /:/ /\    /  /:/       /  /:/ /\   /  /:/ /\
+       /  /:/_/::\  /__/::\      /  /:/ /:/  /  /:/ /:/
+      /__/:/__\/\:\ \__\/\:\__  /__/:/ /:/  /__/:/ /:/ 
+      \  \:\ /~~/:/    \  \:\/\ \  \:\/:/   \  \:\/:/  
+       \  \:\  /:/      \__\::/  \  \::/     \  \::/   
+        \  \:\/:/       /__/:/    \  \:\      \  \:\   
+         \  \::/        \__\/      \  \:\      \  \:\  
+          \__\/                     \__\/       \__\/  
+     
     -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
     <title>{% if page.title != '' %}{{ page.title }} – {% endif %}{{ site.title }}</title>
     {% if page.summary %}
-      <meta name="description" content="{{ page.summary | strip }}">
+      <meta name="description" content="{{ page.summary | strip }}" />
     {% endif %}
-    <link href="https://fonts.googleapis.com/css?family=Cabin:400,600|Lora" rel="stylesheet"> 
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="alternate" type="application/rss+xml" href="/feed.xml">
+    <link rel="canonical" href="http://www.matthewgifford.com{{ page.url }}" />
+    <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin:400,600|Lora" />
+    <link rel="stylesheet" href="/css/main.css" />
   </head>
   <body>
