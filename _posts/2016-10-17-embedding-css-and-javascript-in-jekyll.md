@@ -10,6 +10,8 @@ summary: "Embedding CSS and JavaScript can make your Jekyll-based site even fast
 
 # {{ page.title }}
 
+*Update on 3/9/18: Because my site now contains many pages, I no longer use these techniques. If your site is a single page, you should still consider doing this stuff.*
+
 A few weeks ago, I decided to work on speeding up my <a href="https://jekyllrb.com/">Jekyll</a>-generated <a href="http://www.matthewgifford.com/">personal website</a>. It is a single page that acts as a short introduction to me with links to my profiles on other sites. Because most visitors are there for a short time and never return, it doesn’t benefit from browser caching. It seemed obvious that I should reduce the number of HTTP requests by embedding the CSS and JS.
 
 But, how I could accomplish this was not so obvious. I first looked at several asset-handling plugins. None of them did embedding. After a lot of searching, I discovered that Jekyll could do much of what I wanted without plugins, if I thought a little more creatively about how things worked. What Jekyll couldn’t do on its own could be solved by writing a couple small plugins.
