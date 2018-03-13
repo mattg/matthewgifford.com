@@ -13,13 +13,15 @@
 
   <p>Have something to say? <a href="mailto:hello@matthewgifford.com?subject=Feedback: {{ page.title }}">Email me</a>.</p>
 
-  {% if page.next.url %}
-    <p>Next post: <a href="{{ page.next.url }}">{{page.next.title}}</a></p>
-  {% endif %}
+  <nav>
+    {% if page.previous.url %}
+      <div class="previous"><a href="{{ page.previous.url }}">&larr; Previous post</a></div>
+    {% endif %}
 
-  {% if page.previous.url %}
-    <p>Previous post: <a href="{{ page.previous.url }}">{{page.previous.title}}</a></p>
-  {% endif %}
+    {% if page.next.url %}
+      <div class="next"><a href="{{ page.next.url }}">Next Post &rarr;</a></div>
+    {% endif %}
+  </nav>
 
 </div>
 
