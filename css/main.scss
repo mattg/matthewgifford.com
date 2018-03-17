@@ -2,6 +2,7 @@
 ---
 
 body {
+  background-color: hsl(0, 0, 100%);
   color: hsl(0, 0, 15%);
   font-family: Lora, serif;
   font-size: 18px;
@@ -11,6 +12,15 @@ body {
 
   @media (min-width: 800px) {
     font-size: 21px;
+  }
+
+  &.dark {
+    background-color: hsl(0, 0, 0%);
+    color: hsl(0, 0, 60%);
+
+    a {
+      color: hsl(0, 0, 60%);
+    }
   }
 }
 
@@ -177,6 +187,7 @@ img {
 
 a {
   color: hsl(0, 0, 15%);
+  text-decoration: dotted underline currentcolor;
 }
 
 hr {
