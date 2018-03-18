@@ -4,7 +4,7 @@ title: Building steam
 summary: "Topics include: the north pole of Saturn, feathered dinosaurs encased in amber, and an album that changed my life."
 ---
 
-<h2 class="kicker">Weekend Notes: 12/9/16</h2>
+<h2 class="kicker">Weekend notes: 12/9/16</h2>
 
 # {{ page.title }}
 

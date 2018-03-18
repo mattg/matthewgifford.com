@@ -8,7 +8,7 @@ summary: "Topics include: controlling attention, encrypted messengers, awesome j
   <img src="/img/medium/1*jE9fIOteYwU3JGxkvMuSYw.jpeg">
 </figure>
 
-<h2 class="kicker">Weekend Notes: 1/27/17</h2>
+<h2 class="kicker">Weekend notes: 1/27/17</h2>
 
 # {{ page.title }}
 

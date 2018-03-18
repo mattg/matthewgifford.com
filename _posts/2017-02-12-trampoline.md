@@ -8,7 +8,7 @@ summary: "Topics include: Oregon weather, a trampoline, trees, a book I read, an
   <img src="/img/medium/1*OIRFVvchs5LU5-k5g0DPvg.jpeg">
 </figure>
 
-<h2 class="kicker">Weekend Notes: 2/12/17</h2>
+<h2 class="kicker">Weekend notes: 2/12/17</h2>
 
 # {{ page.title }}
 

@@ -8,11 +8,11 @@ summary: "Topics include: my weekly posts, the bootstrap myth, time crystals, an
   <img src="/img/medium/1*hXeZeNdC_-WdaRGedlqN4A.jpeg">
 </figure>
 
-<h2 class="kicker">Weekend Notes: 2/5/17</h2>
+<h2 class="kicker">Weekend notes: 2/5/17</h2>
 
 # {{ page.title }}
 
-Regular readers of my posts might have noticed that I’ve renamed the weekly updates from <em>Friday Notes</em> to <em>Weekend Notes</em>. There are a couple reasons for this:
+Regular readers of my posts might have noticed that I’ve renamed the weekly updates from <em>Friday notes</em> to <em>Weekend notes</em>. There are a couple reasons for this:
 
 <ol>
   <li>Getting something written during the workweek to post every Friday morning, which was the original plan, has become too difficult. The last couple have been posted on Friday evenings, which appears to be the absolute worst time to post something if you want people to actually see it.</li>

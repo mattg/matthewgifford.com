@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekend Chore Listening
+title: Weekend chore listening
 summary: "Topics include: things I listened to while doing weekend chores. Thatâ€™s it."
 ---
 
@@ -8,7 +8,7 @@ summary: "Topics include: things I listened to while doing weekend chores. Thatâ
   <img src="/img/medium/1*iUtmsd462BujyCUHLuTb5g.jpeg">
 </figure>
 
-<h2 class="kicker">Weekend Notes: 7/10/17</h2>
+<h2 class="kicker">Weekend notes: 7/10/17</h2>
 
 # {{ page.title }}
 

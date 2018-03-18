@@ -8,7 +8,7 @@ summary: "Topics include: Jazzmasters, rocky planets, space geek humor, a though
   <img src="/img/medium/1*Aws99CWzPMXz0H9EDfX3WA.jpeg">
 </figure>
 
-<h2 class="kicker">Weekend Notes: 3/5/17</h2>
+<h2 class="kicker">Weekend notes: 3/5/17</h2>
 
 # {{ page.title }}
 

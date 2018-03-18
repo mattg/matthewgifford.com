@@ -8,7 +8,7 @@ summary: "Topics include: being busy, starting a business, fancy notebooks, the 
   <img src="/img/medium/1*cGxUGltPq-B-_1TFtXkrBg.jpeg">
 </figure>
 
-<h2 class="kicker">Weekend Notes: 4/9/17</h2>
+<h2 class="kicker">Weekend notes: 4/9/17</h2>
 
 # {{ page.title }}
 

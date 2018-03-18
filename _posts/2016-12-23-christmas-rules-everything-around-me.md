@@ -8,7 +8,7 @@ summary: "I have a love/hate relationship with the holiday season. I love celebr
   <img src="/img/medium/1*0yxU0hCsufAd_MW5c2HRTA.jpeg">
 </figure>
 
-<h2 class="kicker">Weekend Notes: 12/23/16</h2>
+<h2 class="kicker">Weekend notes: 12/23/16</h2>
 
 # {{ page.title }}
 

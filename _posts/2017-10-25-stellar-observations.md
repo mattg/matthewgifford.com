@@ -9,7 +9,7 @@ summary: "Topics include: the point of personal writing, gravitational waves, th
   <figcaption>My son observing the solar eclipse on August 21, 2017</figcaption>
 </figure>
 
-<h2 class="kicker">Weekend Notes: 10/25/17</h2>
+<h2 class="kicker">Weekend notes: 10/25/17</h2>
 
 # {{ page.title }}
 

@@ -8,7 +8,7 @@ summary: "Topics include: an ancient Chinese polymath, knowing nothing about Asi
   <img src="/img/medium/1*c6hmlKUNrnFuRq2Vk3HdzA.jpeg">
 </figure>
 
-<h2 class="kicker">Weekend Notes: 5/21/17</h2>
+<h2 class="kicker">Weekend notes: 5/21/17</h2>
 
 # {{ page.title }}
 
