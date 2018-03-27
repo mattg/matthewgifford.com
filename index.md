@@ -21,7 +21,3 @@ Dad to [August](http://www.augustgifford.com/) and [Hazel](http://www.hazelgiffo
 * [email](mailto:hello@matthewgifford.com)
 * [wish list](http://www.amazon.com/gp/registry/wishlist/O31YDA173GFW/ref=cm_wl_rlist_go_o?sort=priority&itemPerPage=25)
 * [Square Cash](https://cash.me/$matthewgifford)
-* [Medium](https://medium.com/@mattg)
-* [Instagram](https://instagram.com/matthewgifford)
-* [Twitter](https://twitter.com/mattg)
-* [Goodreads](https://www.goodreads.com/matthewgifford)
