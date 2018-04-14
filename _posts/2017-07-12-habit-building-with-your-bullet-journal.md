@@ -8,7 +8,7 @@ summary: "I came up with an easy way to add a habit-building scoreboard to your 
   <img src="/img/medium/1*3UYhCbHryzWuHEPMKqjIgw.jpeg" />
 </figure>
 
-# {{ page.title }}
+<h1 class="large">{{ page.title }}</h1>
 
 Since I started using a bullet journal five months ago, I’ve been experimenting with ways to use it to build habits. Initially, I tried recording my progress in the daily log by writing the first letter of each completed daily task (R for reading, W for writing, etc.) to the right of the date. This was fine if I wanted to see how I did on a particular day, but did very little to help me see how I was doing over time.
 

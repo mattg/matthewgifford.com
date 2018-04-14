@@ -140,6 +140,10 @@ h1 {
   + p {
     margin-top: .5em;
   }
+
+  &.large {
+    font-size: 3em;
+  }
 }
 
 h2 {
@@ -221,6 +225,7 @@ nav {
   display: flex;
   justify-content: content-between;
   margin-top: 1em;
+  width: 100%;
 
   > div {
     width: 50%;

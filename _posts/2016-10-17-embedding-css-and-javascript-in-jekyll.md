@@ -8,7 +8,7 @@ summary: "Embedding CSS and JavaScript can make your Jekyll-based site even fast
   <img src="/img/medium/1*x8Uw4fh2OLtFy6clLh7Uiw.jpeg">
 </figure>
 
-# {{ page.title }}
+<h1 class="large">{{ page.title }}</h1>
 
 *Update on 3/9/18: Because my site now contains many pages, I no longer use these techniques. If your site is a single page, you should still consider doing this stuff.*
 

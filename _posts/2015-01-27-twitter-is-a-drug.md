@@ -9,7 +9,7 @@ summary: "It was too much to handle. But I couldn’t get enough."
   <figcaption><a href="https://www.flickr.com/photos/willowherb/3411681664">Photo by Willie Angus</a></figcaption>
 </figure>
 
-# {{ page.title }}
+<h1 class="large">{{ page.title }}</h1>
 
 I’m addicted to the new: new designs, new software versions, new developer tools and techniques, new music, new gadgets, new shoes, news.
 

@@ -4,7 +4,7 @@ title: "Jason, Lyza, Aileen, and John: Thank you"
 summary: "Seven (or eight 😉) years ago, you created something special for Portland’s tech community."
 ---
 
-# {{ page.title }}
+<h1 class="large">{{ page.title }}</h1>
 
 Seven (or eight 😉) years ago, you <a href="http://blog.cloudfour.com/the-end-of-mobile-portland/">created something special</a> for Portland’s tech community.
 

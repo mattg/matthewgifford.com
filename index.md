@@ -8,10 +8,10 @@ summary: "The personal site of Matthew Gifford."
 
 Dad to [August](http://www.augustgifford.com/) and [Hazel](http://www.hazelgifford.com/). Husband to [Angela](https://twitter.com/_angelcakes_). Developer at [Goldstar](https://www.goldstar.com/). Maker of old fashioneds.
 
-## Posts
+## Recent Posts
 
 {% for post in site.posts limit:3 %}	
-* [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %e, %Y" }}{% endfor %} 
+* [{{ post.title }}]({{ post.url }}){% endfor %} 
 
 [More posts](/posts)
 

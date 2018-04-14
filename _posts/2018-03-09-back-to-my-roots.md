@@ -9,7 +9,7 @@ summary: "After three years of writing on Medium, I'm moving everything back hom
   <figcaption>A bouquet from my daughter</figcaption>
 </figure>
 
-# {{ page.title }}
+<h1 class="large">{{ page.title }}</h1>
 
 In 2015, after years of neglecting my long-running blog, I admitted to myself that I had lost interest in posting hot takes on tech and politics. I still had the urge to write. But it was going to have to be something new.
 

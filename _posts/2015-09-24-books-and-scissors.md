@@ -4,7 +4,7 @@ title: Books and scissors
 summary: "While picking up the living area before bed, I noticed the contents of my children’s art supply box: markers, paper, pine cones (one of my…"
 ---
 
-# {{ page.title }}
+<h1 class="large">{{ page.title }}</h1>
 
 While picking up the living area before bed, I noticed the contents of my children’s art supply box: markers, paper, pine cones (one of my son’s current obsessions), books, scissors.
 
