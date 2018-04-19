@@ -83,7 +83,7 @@ figcaption {
   text-align: center;
 
   a {
-    color: hsla(0, 0, 50%, .85);
+    color: hsla(0, 50%, 50%, .85);
   }
 }
 
@@ -114,7 +114,6 @@ header {
 
   a {
     color: hsla(0, 0, 0, .45);
-    text-decoration: none;
   }
 }
 
@@ -161,6 +160,13 @@ h2 {
 
 h3 {
   font-size: 1em;
+  margin-bottom: .5em;
+  margin-top: 1.25em;
+
+  & + p,
+  & + blockquote {
+    margin-top: .7em;
+  }
 }
 
 p {
@@ -181,7 +187,8 @@ img {
 }
 
 a {
-  color: hsla(0, 0, 0, .85);
+  color: hsla(0, 100%, 40%, .85);
+  text-decoration: none;
 }
 
 hr {
