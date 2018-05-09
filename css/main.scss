@@ -5,6 +5,7 @@ $black: hsla(0, 0, 0, .85);
 $gray: hsla(0, 0, 50%, .85);
 $light-gray: hsla(0, 0, 65%, .85);
 $white: hsl(50, 0, 100%);
+$link: hsla(357, 79%, 60%, .85);
 
 $serif: Lora, serif;
 $sans-serif: Cabin, sans-serif;
@@ -92,9 +93,10 @@ figcaption {
 
   a {
     color: $gray;
+    text-decoration-color: lighten($link, 15%);
 
     &:hover {
-      text-decoration-color: $gray;
+      color: lighten($link, 15%);
     }
   }
 }
@@ -126,11 +128,11 @@ header {
 
   a {
     color: $gray;
-    text-decoration-line: none;
+    text-decoration: none;
 
     &:hover {
-      text-decoration-color: $gray;
-      text-decoration-line: underline;
+      color: $link;
+      text-decoration: underline;
     }
   }
 }
@@ -206,10 +208,11 @@ img {
 
 a {
   color: $black;
-  text-decoration-color: $light-gray;
+  text-decoration-color: $link;
+  text-decoration-line: underline;
 
   &:hover {
-    text-decoration-color: $black;
+    color: $link;
   }
 }
 
