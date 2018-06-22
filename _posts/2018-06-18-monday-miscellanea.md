@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monday miscellanea"
-summary: "Notes about interesting things. The themes seem to be about games and the past."
+summary: "Anthony Bourdain, D&D, reading to your children, and Third Coast Percussion."
 ---
 
 # {{ page.title }}
