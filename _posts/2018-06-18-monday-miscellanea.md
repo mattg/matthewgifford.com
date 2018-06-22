@@ -6,7 +6,7 @@ summary: "Notes about interesting things. The themes seem to be about games and 
 
 # {{ page.title }}
 
-Anthony Bourdain was an [extraordinary person](http://davidsimon.com/tony/). That he’s no longer with is still destroys me. The world needs more Tonys and less of the garbage people who are running things these days.
+Anthony Bourdain was an [extraordinary person](http://davidsimon.com/tony/). That he’s no longer with us still destroys me. The world needs more Tonys and less of the garbage people who are running things these days.
 
 ***
 
