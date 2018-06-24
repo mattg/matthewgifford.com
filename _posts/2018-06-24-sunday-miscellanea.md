@@ -15,7 +15,7 @@ summary: "'I wanna see movies of my dreams', habits of miserable people, and ADH
 
 ***
 
-I don't normally like to post self-help stuff, but [“Here Are the 14 Habits of Highly Miserable People”](https://www.alternet.org/here-are-14-habits-highly-miserable-people) is a excellent reminder to myself and, I suspect, some of my readers to stop self-sabotaging.
+I don't normally like to post self-help stuff, but [“Here Are the 14 Habits of Highly Miserable People”](https://www.alternet.org/here-are-14-habits-highly-miserable-people) is an excellent reminder to myself and, I suspect, some of my readers to stop self-sabotaging.
 
 ***
 
