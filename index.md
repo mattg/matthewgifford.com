@@ -6,11 +6,7 @@ summary: "The personal site of Matthew Gifford."
 
 # Matthew Gifford
 
-Dad to [August](http://www.augustgifford.com/) and [Hazel](http://www.hazelgifford.com/).<br />
-Husband to [Angela](https://twitter.com/_angelcakes_).<br />
-Developer at [Goldstar](https://www.goldstar.com/).<br />
-DM for [D&D @ 451](/dnd).<br />
-Maker of old fashioneds.
+Dad to [August](http://www.augustgifford.com/) and [Hazel](http://www.hazelgifford.com/). Husband to [Angela](https://gifford.boutique/). Developer at [Goldstar](https://www.goldstar.com/). DM for [D&D @ 451](/dnd). Maker of old fashioneds.
 
 ## Recent Posts
 
@@ -26,5 +22,3 @@ Maker of old fashioneds.
 * [D&D @ 451](/dnd)
 * [wish list](http://www.amazon.com/gp/registry/wishlist/O31YDA173GFW/ref=cm_wl_rlist_go_o?sort=priority&itemPerPage=25)
 * [Square Cash](https://cash.me/$matthewgifford)
-* [Reddit](https://www.reddit.com/user/matthewgifford)
-* [Twitter](https://twitter.com/mattg)
