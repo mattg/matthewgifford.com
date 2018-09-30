@@ -8,7 +8,7 @@ $white: hsl(50, 0, 100%);
 $link: hsla(357, 79%, 60%, .85);
 
 $serif: Lora, serif;
-$sans-serif: Cabin, sans-serif;
+$sans-serif: "Fira Sans", sans-serif;
 
 body {
   background-color: $white;
@@ -147,6 +147,7 @@ h3 {
 h1 {
   font-size: 2em;
   margin-bottom: .25em;
+  font-weight: 900;
 
   + p {
     margin-top: .5em;
@@ -257,5 +258,39 @@ nav {
 
   .next {
     text-align: right;
+  }
+}
+
+// Mailchimp signup form
+
+#mc_embed_signup {
+  .clear,
+  .indicates-required,
+  .mc-field-group {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 740px;
+    padding: 0 20px;
+    width: 100%;
+  }
+
+  .indicates-required {
+    margin-bottom: 1em;
+  }
+
+  .mc-field-group {
+    margin-bottom: .5em;
+  }
+
+  .datefield {
+    display: inline-block;
+  }
+
+  .asterisk {
+    color: $link;
+  }
+
+  .button {
+    font-size: 1em;
   }
 }
