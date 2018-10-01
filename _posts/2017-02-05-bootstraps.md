@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boostraps
+title: Bootstraps
 summary: "Topics include: my weekly posts, the bootstrap myth, time crystals, and a pet video."
 ---
 
