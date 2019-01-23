@@ -30,6 +30,3 @@ Dad to [August](http://www.augustgifford.com/) and [Hazel](http://www.hazelgiffo
 - [Leonardo da Vinci](https://amzn.to/2LCgE69) by Walter Isaacson
 - [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://amzn.to/2GHyoOR) by Samin Nosrat
 - [The Tombs of Atuan](https://amzn.to/2LzKxUG) by Ursula K. Le Guin
-- [Waterdeep: Dragon Heist](https://amzn.to/2RgP3wM)
-- [Waterdeep: Dungeon of the Mad Mage](https://amzn.to/2RnRaiq)
-- [The Wise Man's Fear](https://amzn.to/2LD4qdE) by Patrick Rothfuss
