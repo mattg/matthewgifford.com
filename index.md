@@ -30,4 +30,3 @@ Dad to [August](http://www.augustgifford.com/) and [Hazel](http://www.hazelgiffo
 - [Einstein: His Life and Universe](https://amzn.to/2LCcbAx) by Walter Isaacson
 - [Leonardo da Vinci](https://amzn.to/2LCgE69) by Walter Isaacson
 - [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://amzn.to/2GHyoOR) by Samin Nosrat
-- [The Tombs of Atuan](https://amzn.to/2LzKxUG) by Ursula K. Le Guin
