@@ -27,7 +27,5 @@ Dad to [August](http://www.augustgifford.com/) and [Hazel](http://www.hazelgiffo
 ## What I'm reading
 
 - [Back of the Napkin](https://amzn.to/2RjyUqi) by Dan Roam
-- [Einstein: His Life and Universe](https://amzn.to/2LCcbAx) by Walter Isaacson
 - [The Farthest Shore](https://amzn.to/2XwZf3A) by Ursula K. Le Guin
 - [Leonardo da Vinci](https://amzn.to/2LCgE69) by Walter Isaacson
-- [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://amzn.to/2GHyoOR) by Samin Nosrat
