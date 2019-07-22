@@ -22,9 +22,3 @@ Dad to [August](http://www.augustgifford.com/) and [Hazel](http://www.hazelgiffo
 - [email](mailto:hello@matthewgifford.com)
 - [wish list](http://www.amazon.com/gp/registry/wishlist/O31YDA173GFW/ref=cm_wl_rlist_go_o?sort=priority&itemPerPage=25)
 - [Square Cash](https://cash.me/$matthewgifford)
-
-## What I'm reading
-
-- [Back of the Napkin](https://amzn.to/2RjyUqi) by Dan Roam
-- [The Farthest Shore](https://amzn.to/2XwZf3A) by Ursula K. Le Guin
-- [Leonardo da Vinci](https://amzn.to/2LCgE69) by Walter Isaacson

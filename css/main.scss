@@ -1,11 +1,11 @@
 ---
 ---
 
-$black: hsla(210, 100%, 7.5%, .85);
-$gray: hsla(210, 5%, 50%, .85);
+$black: hsla(210, 0, 7.5%, .85);
+$gray: hsla(210, 0, 50%, .85);
 $light-gray: hsla(0, 0, 65%, .85);
 $white: hsl(50, 0, 100%);
-$link: hsla(357, 79%, 60%, .85);
+$link: hsla(210, 80%, 30%, .85);
 
 $serif: Lora, serif;
 $sans-serif: "Fira Sans", sans-serif;
@@ -93,8 +93,7 @@ figcaption {
   text-align: center;
 
   a {
-    color: $gray;
-    text-decoration-color: lighten($link, 15%);
+    color: lighten($link, 15%);
 
     &:hover {
       color: lighten($link, 15%);
@@ -132,7 +131,7 @@ header {
     text-decoration: none;
 
     &:hover {
-      color: $link;
+      color: lighten($gray, 15%);
       text-decoration: underline;
     }
   }
@@ -210,12 +209,10 @@ img {
 }
 
 a {
-  color: $black;
-  text-decoration-color: $link;
-  text-decoration-line: underline;
+  color: $link;
 
   &:hover {
-    color: $link;
+    color: lighten($link, 15%);
   }
 }
 
