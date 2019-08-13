@@ -16,7 +16,6 @@ Dad to [August](http://www.augustgifford.com/) and [Hazel](http://www.hazelgiffo
 
 ## Links
 
-- [newsletter](/newsletter)
 - [GitHub](https://github.com/mattg)
 - [Keybase](https://keybase.io/giff)
 - [email](mailto:hello@matthewgifford.com)
