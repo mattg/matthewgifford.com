@@ -10,7 +10,7 @@ I'm going to use up your free NYT articles with this list. They're all worth it,
 
 - ___[Our democracy’s founding ideals were false when they were written. Black Americans have fought to make them true.](https://www.nytimes.com/interactive/2019/08/14/magazine/black-history-american-democracy.html)___ — If there's one thing you read from the NYT's _[1619 Project](https://www.nytimes.com/interactive/2019/08/14/magazine/1619-america-slavery.html)_, read this.
 - ___[We should all be reading more Ursula Le Guin](https://theoutline.com/post/7886/ursula-le-guin-carrier-bag-theory)___ — One of the things that bothers me about the myths our children learn is that people are either good or bad. Le Guin's books contain worlds filled with gray areas and ambiguity. I can't wait until my kids are old enough to read them.
-- ___[We Have Ruined Childhood](https://www.nytimes.com/2019/08/17/opinion/sunday/childhood-suicide-depression-anxiety.html)___ — I'm convinced that this situation can be fixed. But we have to be willing to let go of old, broken ideas and spend serious amounts of time and money on improvements.
+- ___[We Have Ruined Childhood](https://www.nytimes.com/2019/08/17/opinion/sunday/childhood-suicide-depression-anxiety.html)___
 - ___[Consume less, create more](https://tjcx.me/posts/consumption-distraction/)___
 - ___[Laziness Does Not Exist](https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01)___
 - ___[The Em Dash Divides](https://www.nytimes.com/2019/08/14/style/em-dash-punctuation.html)___ — I'm learning to love the em dash.
