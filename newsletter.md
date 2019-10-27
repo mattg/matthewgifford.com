@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Newsletter 
+title: Giff's Miscellanea
 ---
 
-Things that interest me. And maybe you, too.
+This is an email newsletter about things that interest me. And maybe you, too.
 
 <figure>
   <iframe
