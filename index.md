@@ -8,11 +8,13 @@ summary: "The personal site of Matthew Gifford."
 
 Dad to [August](http://www.augustgifford.com/) and [Hazel](http://www.hazelgifford.com/). Husband to [Angela](http://www.thegiffordranch.com/). Developer at [Goldstar](https://www.goldstar.com/). DM for Dragon Hunters Intercontinental. Maker of old fashioneds.
 
+<!--
 ## Latest posts
 
 {% for post in site.posts limit:3 %}	
 - [{{ post.title }}]({{ post.url }}){% endfor %} 
 - [more&hellip;](/posts)
+-->
 
 ## Links
 
