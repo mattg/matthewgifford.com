@@ -8,7 +8,7 @@ $white: hsl(50, 0, 100%);
 $link: hsla(210, 80%, 30%, .85);
 
 $serif: Lora, serif;
-$sans-serif: Montserrat, sans-serif;
+$sans-serif: Oswald, sans-serif;
 
 body {
   background-color: $white;
@@ -145,10 +145,11 @@ h1,
 h2,
 h3 {
   font-family: $sans-serif;
+  font-weight: 600;
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 3em;
   margin-bottom: .25em;
   font-weight: 700;
 
@@ -162,7 +163,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.25em;
+  font-size: 1.75em;
   margin-bottom: .5em;
   margin-top: 1em;
 
