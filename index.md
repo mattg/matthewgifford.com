@@ -19,6 +19,7 @@ Dad to [August](http://www.augustgifford.com/) and [Hazel](http://www.hazelgiffo
 ## Links
 
 - [Giff's Miscellanea](/newsletter/) (my email newsletter)
+- [D&D resources](/dnd-resources)
 - [GitHub](https://github.com/mattg)
 - [Keybase](https://keybase.io/giff)
 - [email](mailto:mgifford@gmail.com)
